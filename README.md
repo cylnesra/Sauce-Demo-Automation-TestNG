@@ -21,6 +21,9 @@ Steps:
 Expected Result: Upon successful login, the user should be redirected to the home page.      
 
 ## Report    
+   ![extentreport1](https://github.com/cylnesra/Sauce-Demo-Automation-TestNG/assets/87074889/6d7d4414-ae20-4185-878c-754aa97416dd)            
+
    
+![extentreport2](https://github.com/cylnesra/Sauce-Demo-Automation-TestNG/assets/87074889/3e4f736b-73ba-48b8-b7ad-54d583846481)
 
 
